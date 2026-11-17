@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">ClassWork-5</string>
+
+    <string name="prompt_guess">Guess a number:</string>
+    <string name="hint_enter_number">Enter 0 - %1$d</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="error_invalid">Your data is incorrect. Enter again!</string>
+    <string name="msg_win">You win!</string>
+    <string name="msg_wrong">You are wrong! Guess again</string>
+
+    <string name="go_meal">Meal UI</string>
+    <string name="meal_logo">Meal logo</string>
+    <string name="please_click">Please click:</string>
+    <string name="customer_1">Customer 1</string>
+    <string name="customer_2">Customer 2</string>
+    <string name="please_select_one_item">Please select one item:</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="please_select_item">Please select item:</string>
+    <string name="meal_result">%1$s select %2$s.</string>
+    <string name="btn_return">Return</string>
+
+    <string name="login_title">Login</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_first_hint">First login creates your account.</string>
+    <string name="login_empty">Please enter username and password.</string>
+    <string name="login_failed">Username or password is incorrect.</string>
+    <string name="logout">Logout</string>
+
+    <string name="configuration">Configuration</string>
+    <string name="config_title">Configuration</string>
+    <string name="config_user">Username: %1$s</string>
+    <string name="hint_nickname">Nickname</string>
+    <string name="hint_max_number">Maximum number (5 - 100)</string>
+    <string name="config_wins">Wins: %1$d</string>
+    <string name="config_invalid">Enter a nickname and a number from 5 to 100.</string>
+
+    <string name="bingo_draw">Draw</string>
+    <string name="bingo_next">Next round</string>
+    <string name="bingo_round">Round %1$d</string>
+    <string name="bingo_called_none">Called: none yet</string>
+    <string name="bingo_called">Called: %1$d</string>
+    <string name="bingo_start">Press Draw. Match all 5 numbers.</string>
+    <string name="bingo_hit">%1$d is on your card.</string>
+    <string name="bingo_miss">%1$d is not on your card.</string>
+    <string name="bingo_win">Bingo!</string>
+    <string name="bingo_pool_empty">No numbers left.</string>
+    <string name="bingo_empty_history">No saved round yet.</string>
+    <string name="bingo_history_line">Round %1$d: %2$s\n%3$s</string>
+    <string name="config_saved">Saved.</string>
+    <string name="player_status">%1$s    Wins: %2$d</string>
+    <string name="save">Save</string>
+</resources>
